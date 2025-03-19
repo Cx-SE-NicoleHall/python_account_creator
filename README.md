@@ -1,1 +1,1 @@
-# python_account_creator
+python_account_creator is meant to save username and passwords directly into a json file. This project is used for testing the security scanning engines within [Checkmarx One] (https://checkmarx.com/product/application-security-platform) 
